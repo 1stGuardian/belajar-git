@@ -1,3 +1,4 @@
 Menambah file2.txt
 Menambah baris baru
 lorem ipsum dolor
+sit amet
